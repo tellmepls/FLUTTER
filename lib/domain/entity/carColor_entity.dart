@@ -1,0 +1,6 @@
+class CarColorEntity {
+  late int id;
+  final String car_color;
+
+  CarColorEntity({required this.car_color});
+}
